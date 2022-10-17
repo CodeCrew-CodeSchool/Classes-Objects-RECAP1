@@ -1,0 +1,15 @@
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/bin/Debug/net6.0/pizza
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/bin/Debug/net6.0/pizza.deps.json
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/bin/Debug/net6.0/pizza.runtimeconfig.json
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/bin/Debug/net6.0/pizza.dll
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/bin/Debug/net6.0/pizza.pdb
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.csproj.AssemblyReference.cache
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.AssemblyInfoInputs.cache
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.AssemblyInfo.cs
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.csproj.CoreCompileInputs.cache
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.dll
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/refint/pizza.dll
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.pdb
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/pizza.genruntimeconfig.cache
+/Users/erhodess3/401/Classes-Objects-RECAP1/pizza/obj/Debug/net6.0/ref/pizza.dll
